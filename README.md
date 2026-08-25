@@ -157,6 +157,3 @@ capstone/
 - [Task Master](/.taskmaster/docs/prd.md) — 태스크 관리
 
 ---
-
-|------|------|
-| EunSeong-Jo | 팀장 / 기획 / AI·ML |
